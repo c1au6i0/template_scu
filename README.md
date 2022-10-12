@@ -1,14 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# collins-ppcg
+# project
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-Repo of Collaboration with Collin Collins. We were asked to check
-variants (`data/Recurrent_Met_GRCh38_Luigi.xlsx`) in the PPCG variants
-release.
 
 Project uses `{targets}`and `{renv}` and `{here}`.
 
